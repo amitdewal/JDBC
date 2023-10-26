@@ -1,9 +1,9 @@
 import java.sql.*;
 import java.io.*;
-
+//class
 class DynamicInputJDBC{
 
-
+		//main method 
 	public static void main(String[] args) {
 		
          try
