@@ -1,6 +1,7 @@
 import java.sql.*;
 import java.io.*;
 
+//main
 class DynamicInputJDBC{
 
 
